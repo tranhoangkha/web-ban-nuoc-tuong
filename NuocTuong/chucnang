@@ -1,0 +1,20 @@
+Phần admin 
+Tất cả đều phân trang
+-Login(có kiểm tra role)
+-Quản lý category(thêm,sửa,xóa tạm - khôi phục , xóa ,ẩn-hiện)
+-Quản lý sản phẩm(thêm,sửa,xóa tạm - khôi phục , xóa ,ẩn-hiện)
+-Quản lý người dùng(Khóa- mở, xóa)
+-Quản lý đơn hàng(chỉnh trạng thái đơn, xem chi tiết)
+-Quản lý tin tức(thêm,sửa,xóa tạm - khôi phục , xóa ,ẩn-hiện)
+Phần người dùng:
+-Đăng kí ,đăng nhập
+-Xem sản phẩm 
+-Quản lý giỏ hàng - đặt hàng
+-Đổi mật khẩu
+-Đổi thông tin cá nhân.
+Phần trang chủ:
+-Đổ dữ liệu category từ database
+-Đổ sản phẩm mới ,sản phẩm sale, tin tức từ database .
+
+Project viết chuẩn mô hình mvc từ view đến model nên việc chỉnh sửa hoặc upload code rất nhanh chóng
+
